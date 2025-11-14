@@ -1,6 +1,10 @@
 mlg/
+html_dummps_1/
 scrapper/chrome-diag.py
-scrapper/calude.py
-scrapper/calude3.py
+scrapper/claude.py
+scrapper/claude3.py
 scrapper/scrape_dse_all.py
 scrapper/test_scrape.py
+iiser_bhopal.html
+iiser_phd_students.csv
+iiser_phd_students.json
