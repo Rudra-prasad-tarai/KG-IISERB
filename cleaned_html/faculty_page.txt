@@ -1,0 +1,106 @@
+----------------------------------------
+Name: Vaibhav Kumar
+Role: Assistant Professor
+Email(s): vaibhav@iiserb.ac.in
+Phone: +91 755 269 2681
+Research Areas:
+ - Geospatial Artificial Intelligence(GeoAI)
+ - 3D GIS
+ - Urban Informatics. HomePage
+Homepage: https://sites.google.com/view/vaibhavkumar1/home
+----------------------------------------
+
+----------------------------------------
+Name: Tanmay Basu [Dept. Head]
+Role: Assistant Professor
+Email(s): hod_dse@iiserb.ac.in,, tanmay@iiserb.ac.in
+Phone: +91 755 269 2683
+Research Areas:
+ - Biomedical Informatics
+ - Information Extraction
+ - Machine Learning
+ - Natural Language Processing (NLP)
+ - Text Mining. HomePage
+Homepage: https://sites.google.com/view/tanmaybasu/
+----------------------------------------
+
+----------------------------------------
+Name: Jasabanta Patro
+Role: Assistant Professor
+Email(s): jpatro@iiserb.ac.in
+Phone: +91 755 269 2687
+Research Areas:
+ - Natural Language Processing (NLP). HomePage
+Homepage: https://sites.google.com/view/jpatro/home
+----------------------------------------
+
+----------------------------------------
+Name: Vinod K Kurmi [DPGC]
+Role: Assistant Professor
+Email(s): vinodkk@iiserb.ac.in
+Phone: +91 755 269 2689
+Research Areas:
+ - Computer Vision (CV)
+ - Deep Learning (DL)
+ - Machine Learning (ML)
+ - Multimodal and Fair Learning HomePage
+Homepage: https://vinodkkurmi.github.io/
+----------------------------------------
+
+----------------------------------------
+Name: Akshay Agarwal [DUGC]
+Role: Assistant Professor
+Email(s): akagarwal@iiserb.ac.in
+Phone: +91 755 269 2691
+Research Areas:
+ - Fair and Trustworthy AI/ML
+ - Biometrics Recognition
+ - Generative Algorithms
+ - Deep Learning in CV
+ - Medical
+ - Brain Image Analysis
+ - NLP/Speech. HomePage
+Homepage: https://sites.google.com/iiitd.ac.in/agarwalakshay/home
+----------------------------------------
+
+----------------------------------------
+Name: Samiran Das
+Role: Assistant Professor
+Email(s): samiran@iiserb.ac.in
+Phone: +91 755 269 2685
+Research Areas:
+ - Signal Processing
+ - Image Processing
+ - Machine Learning
+ - Deep Learning
+ - Remote Sensing
+ - Biometrics HomePage
+Homepage: https://sites.google.com/view/samiran-das/home?authuser=0
+----------------------------------------
+
+----------------------------------------
+Name: Akash Anil
+Role: Assistant Professor
+Email(s): anila@iiserb.ac.in
+Phone: +91 755 269 2693
+Research Areas:
+ - LLMs
+ - Knowledge Graph
+ - Graph Machine Learning HomePage
+Homepage: https://sites.google.com/view/akash-anil
+----------------------------------------
+
+----------------------------------------
+Name: Sundaram Muthu
+Role: Assistant Professor
+Email(s): sundaram@iiserb.ac.in
+Phone: +91 755 269 2695
+Research Areas:
+ - Robotics & Robot Perception
+ - Simultaneous Localization and Mapping (SLAM)
+ - 3D Reconstruction & Scene Understanding
+ - Multi-sensor data fusion
+ - Uncertainty-Aware Planning and Control
+ - Human-Robot Interaction. HomePage
+Homepage: https://sites.google.com/view/sundaram-muthu
+----------------------------------------

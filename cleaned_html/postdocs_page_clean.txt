@@ -1,0 +1,18 @@
+----------------------------------------
+Name: Ms. Rini Smita Thakur
+Year of Joining: October 2023
+Supervisor: Dr Vinod Kumar Kurmi
+Email: rinithakur@iiserb.ac.in
+Homepage: https://scholar.google.co.in/citations?user=6bnMJPwAAAAJ&hl=en
+Image: images/demo/rini.jpg
+----------------------------------------
+
+----------------------------------------
+Name: Mr. Anirban Tarafdar
+Year of Joining: 10th April 2024
+Supervisor: Dr. Tanmay Basu
+Email: anirbantarafdar@iiserb.ac.in
+Homepage: https://scholar.google.com/citations?user=LGvUz2sAAAAJ&hl=en&oi=ao
+Image: images/demo/Anirban.jpg
+----------------------------------------
+

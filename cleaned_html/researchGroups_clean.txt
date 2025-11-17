@@ -1,0 +1,140 @@
+----------------------------------------
+Research Group: Advanced Signal and Image Processing Lab (ASIP)
+Image: ./researchGroups_files/ASIP.jpg
+
+Description:
+Our research deepens into various theoretical and applied aspects of signal, image processing, and machine learning to solve societal challenges through technology. We are mainly focused on developing advanced methods for the following tasks/areas- For more details visit
+
+Research Topics:
+ - Landcover classification from remote sensing images
+ - Hyperspectral image processing
+ - Tensor approach for data compression
+ - Image quality assessment
+ - Explainable machine learning
+ - AI for precision agriculture
+
+Homepage: https://sites.google.com/view/samiran-das/research?authuser=0&pli=1
+----------------------------------------
+
+----------------------------------------
+Research Group: GeoAI4Cities Lab
+Image: ./researchGroups_files/GeoAI.png
+
+Description:
+Traffic snarls, infrastructure planning, and environmental threats, the challenges of cities can seem overwhelming. But what if we could harness the power of Geospatial technology to create smarter, more resilient urban environments!! We at GeoAI4Cities Lab aim to make this a reality by integrating AI techniques with diverse spatial datasets. Some of the major technologies on which we work are Deep Learning, GIS, Optimization, Autonomous Systems, Digital Twins, LiDAR, Sound, Synthetic Spatial Data (Game engines, AI-generated), and High-resolution Imagery (UAV/Street View/Satellite). For more details visit
+
+Research Topics:
+ - Geospatial Machine Learning (ML)
+ - Feature Extraction Through Deep Learning (DL) From Lidar Point Clouds
+ - Information Extraction From Fused or Individual satellite/UAV/street images
+ - 3D Geoinformation Science
+ - Simulation of Disaster Scenarios
+ - Location Optimization of Facilities
+ - Social Media Analytics for Infrastructure Planning
+
+Homepage: https://sites.google.com/iiserb.ac.in/geoai/home
+----------------------------------------
+
+----------------------------------------
+Research Group: Intelligent Systems and Hypertext Analysis (ISHA) Lab
+Image: ./researchGroups_files/isha.jpg
+
+Description:
+The research interest of Intelligent Systems’ Lab(ISL group) revolves around various subdomains of NLP and social computing. We try to solve the problems of NLP and social computing using machine learning, complex networks and deep neural techniques. Some of the problems we work on are For more details visit
+
+Research Topics:
+ - Credibility evaluation and automated fact-checking
+ - Sentiment analysis and E motion detection
+ - Multilingual text processing
+ - Link prediction in complex networks
+
+Homepage: https://sites.google.com/iiserb.ac.in/isha-iiserb/home
+----------------------------------------
+
+----------------------------------------
+Research Group: (BDS Lab) Biomedical Data Science Research Lab
+Image: ./researchGroups_files/bbmed0.jpg
+
+Description:
+The NLP group at IISERB aims to facilitate biomedical discovery by developing, evaluating, and applying novel informatics methods and software to extract, compile and analyze heterogeneous clinical text data. The group has worked on a variety of challenges faced in the clinical NLP domain including Named entity recognition, text mining and sentiment analysis and Machine Learning and many more. For more details visit
+
+Research Topics:
+ - Biomedical Literature Mining
+ - Knowledge Discovery in Social Media for Better Care
+ - Clinical Text Mining
+
+Homepage: https://bdslab-iiserb.github.io/
+----------------------------------------
+
+----------------------------------------
+Research Group: Visual Data Computing Group (VisDom)
+Image: ./researchGroups_files/visdom.png
+
+Description:
+The research areas associated with this group are computer vision (CV), deep learning (DL), and machine learning (ML). Some currently going projects are : - For more details visit
+
+Research Topics:
+ - Fairness in Computer Vision and Bias Free Learning
+ - Domain Genelization
+ - Audio Domain Adaptation & Source-Free Domain Adaptation
+ - Computer Vision in Bio-Medical Data
+ - Social Awareness Detection using DL and CV
+ - Transfer Learning in Computer Vision
+
+Homepage: https://visdomlab.github.io/
+----------------------------------------
+
+----------------------------------------
+Research Group: Trustworthy BiometraVision Lab
+Image: ./researchGroups_files/aagarwalakshay.jpg
+
+Description:
+Welcome to the sizzling world of ML and AI! At our forefront, we're dedicated to igniting your interest in cutting-edge topics that are hotter than ever. Some of the topics but not limited to which we dealt with are: - For more details visit
+
+Research Topics:
+ - Secure and Trustworthy Vision and Biometrics Identification (Spoofing, Adversaries, Deepfakes, Corruptions, etc)
+ - Biometrics Recognition (face, iris, fingerprint, voice, etc)
+ - Generative AI (Diffusion, GANs, etc)
+ - Explainable AI
+ - Effective and Efficient AI
+ - Novel Deep Learning Architectures and Theory
+ - 3D Computer Vision (NeRF etc)
+
+Homepage: https://tbvl22.github.io/website/home.html
+----------------------------------------
+
+----------------------------------------
+Research Group: Social Data Analytics and Learning Lab (SoDAL Lab)
+Image: ./researchGroups_files/sodal_img.jpg
+
+Description:
+The SoDAL approximately emerges from the word Sodality (sodalis in Latin) which means a group of diverse people working towards a common goal. Likewise, the SoDAL Lab focuses on collecting social data, analysis and learning to predict a social phenomenon using various types of data analytics and AI tools. In particular, this group aims at understanding and modeling various social processes with the help of Social Network Analysis, Deep Learning on Graphs, Natural Language Processing, and other Multi-Model AI. Currently, we are working over: For more details visit
+
+Research Topics:
+ - Understanding Mental Health using Data Science
+ - Scalable Deep Learning using Graph Neural Networks
+ - Explainable AI with Graph Machine Learning
+ - Knowledge Graph Completion
+ - Addressing challenges in LLM predictions using structured data (Knowledge Graph)
+
+Homepage: https://sites.google.com/view/akash-anil
+----------------------------------------
+
+----------------------------------------
+Research Group: Robotic Perception and Embodied Intelligence Lab
+Image: ./researchGroups_files/Robotic_Vision_sundaram-muthu.jpg
+
+Description:
+Description: Our research focuses on integrating robotic perception and embodied intelligence to develop autonomous robots that can sense, plan, and act reliably in complex, dynamic environments, while handling uncertainties in sensing, interaction, and control. Our objective is to advance 3D vision, SLAM, multi-sensor data fusion, and robot learning to build autonomous systems capable of performing complex tasks. By addressing the challenges of operating in dynamic, unstructured environments and managing various uncertainties, we aim to bridge the gap between perception and action, delivering scalable and adaptable robotic solutions for applications across industry, manufacturing, and societal domains. Our research interests span: For more details visit
+
+Research Topics:
+ - Robotics & Robot Perception
+ - Simultaneous Localization and Mapping (SLAM)
+ - 3D Reconstruction & Scene Understanding
+ - Multi-sensor Data Fusion
+ - Uncertainty-Aware Planning and Control
+ - Human-Robot Interaction
+
+Homepage: https://sites.google.com/view/sundaram-muthu/research-lab
+----------------------------------------
+

@@ -1,0 +1,462 @@
+Name | Roll Number | Email | Supervisor | Github / Linkedin
+Anay Singh | 23045 | anay23@iiserb.ac.in | NA | Github/LinkedIn ; Github/LinkedIn | https://github.com/crypticBard
+Tanushree Ravindra Pratap Yadav | 23380 | yadav23@iiserb.ac.in | NA | Github/LinkedIn ; Github/LinkedIn | https://github.com/SinUbyCosU
+Sangam | 23290 | sangam23@iiserb.ac.in | NA | Github/Linkedin ; Github/Linkedin | https://github.com/sam1511x
+Dev Raj | 23102 | devraj23@iiserb.ac.in | NA | Github/Linkedin ; Github/Linkedin | https://www.linkedin.com/in/dev-raj-iiserb
+Sankul Rahate | 23292 | sankul23@iiserb.ac.in | NA | Github/Linkedin ; Github/Linkedin | www.linkedin.com/in/sankul-rahate-716046227
+Kiranmoy Das | 23156 | kiranmoy23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/kiranmoy-das-677616323/
+Meghna Yadav | 23184 | meghna23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/meghna-yadav-9447512a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Lakshay Saini | 23166 | lakshay23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | www.linkedin.com/in/lakshayxi
+Kushagra Agarwal | 23162 | kushagra23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/KushagraAgarwal525
+Ananya Preyasi | 23044 | ananya23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/ananya-preyasi-1b45ba340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Abhishek Nair | 23009 | abhisheknair23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | www.linkedin.com/in/abhishek-nair-054922308
+Palak Kumari | 23217 | palak23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/palak-kumari-239b39284/
+Rachit Bakshi | 23254 | rachit23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/rachit-bakshi-b61899287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Sarabeshwar Balaji | 23294 | sarabeshwar23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/sarabeshwar-balaji/
+Charvi Gupta | 23091 | charvi23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://www.linkedin.com/in/charvi-gupta-620521288
+Pranay Meshram | 23236 | pranay23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/praymesh/
+Mayank Srivastava | 23182 | mayanks23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://github.com/Mayank-Srivastava-21
+Pragati Nayak | 23231 | pragati23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://github.com/Pragati-Nayak23
+Chirayu Sakarkar | 23093 | chirayus23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://github.com/Prowler0204
+Mohammedkaif Mohammedrafiq Kalagond | 23190 | mohammedkaif23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/Mohammedkaif2004
+Kshetrimayum Paresh Singh | 23160 | kshetrimayum23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | http://linkedin.com/in/paresh-kshetrimayum-475a44292
+Atul Sonkar | 23073 | atulsonkar23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/atul-sonkar-19a4ab237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Harshal Digarse | 23128 | harshal23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | www.linkedin.com/in/harshaldigarse
+Sejal Dayma | 23299 | sejal23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | www.linkedin.com/in/sejaldayma
+Lokesh Pareek | 23170 | lokesh23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/lokesh2004-g
+Sayan Samanta | 23298 | sayan23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | www.linkedin.com/in/sayan-samanta-64935b2a6
+Satvik Agrawal | 23296 | satvik23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/satvik-agrawal-483a141b8
+J Paul Masillamani | 23141 | jpaul23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/paul-masillamani-5b1898284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Singamsetti Komal Sandeep | 23322 | singamsetti23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/komal-singamsetti
+Uddisa Kkaarthiek | 23355 | uddisa23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/kkaarthiek/
+Arnav Shinganjude | 23061 | arnavs23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://www.linkedin.com/in/arnav-shinganjude-5601bb354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Nipun Aditya | 23209 | nipun23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | #
+Ranjith Anand | 23266 | ranjith23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/ranjith-anand-9b5649378
+Mohammad Rishan Melethil | 23188 | rishan23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/mohammad-rishan-melethil-23038a320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Kshetrimayum Paresh Singh | 23160 | kshetrimayum23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | http://linkedin.com/in/paresh-kshetrimayum-475a44292
+Yuvraj Kumar | 23393 | yuvrajk23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/yuvraj-kumar-b3b976357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Lal Jash | 23167 | jashlal23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/jash-lal-14877b378
+Sumer Singh | 23336 | sumer23@iiserb.ac.in | NA | GitHub/LinkedIn
+Prathamesh Lokhande | 23171 | lokhande23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://www.linkedin.com/in/pralok2005
+Chirag Maheshwari | 23092 | chirag23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://github.com/ChiragM1107
+Shiv Raj Singh | 23305 | shiv23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | #
+Poorvai Chandrasen | 23227 | poorvai23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/poorvai-chandrasen-b1b90730a/
+Aditi Mishra | 23016 | aditi23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | link
+Tanvi Vinayak | 23349 | tanvi23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/tanvi-vinayak-narisetty-11b88828a/
+Aditya Pandey | 23019 | adityapandey23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | link
+Saurabh Namdev Shinde | 22296 | shinde22@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/saurabh-shinde-b2451824a
+Vaibhav Verma | 23361 | vaibhav23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://in.linkedin.com/in/vaibhav-verma-b51826254""
+Ranjith Anand | 23266 | ranjith23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/ranjith-anand-9b5649378
+Rupali Agarwal | 23278 | rupali23@iiserb.ac.in | NA | Github/Linkedin ; Github/Linkedin | https://www.linkedin.com/in/rupali-agarwal-b563b8239/
+Pawan Kumar Rajput | 23404 | pawn23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | www.linkedin.com/in/pawan-kr-rajput
+Vanshika Gupta | 23365 | vanshikag23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/Vnshiee/
+Nikhil Rathore | 23208 | nikhi23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/nikhil-rathore-38b624351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Jay Jagannath | 23145 | jay23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | link
+Name | Roll Number | Email | Supervisor | Github / Linkedin
+Anay Singh | 23045 | anay23@iiserb.ac.in | NA | Github/LinkedIn ; Github/LinkedIn | https://github.com/crypticBard
+Tanushree Ravindra Pratap Yadav | 23380 | yadav23@iiserb.ac.in | NA | Github/LinkedIn ; Github/LinkedIn | https://github.com/SinUbyCosU
+Sangam | 23290 | sangam23@iiserb.ac.in | NA | Github/Linkedin ; Github/Linkedin | https://github.com/sam1511x
+Dev Raj | 23102 | devraj23@iiserb.ac.in | NA | Github/Linkedin ; Github/Linkedin | https://www.linkedin.com/in/dev-raj-iiserb
+Sankul Rahate | 23292 | sankul23@iiserb.ac.in | NA | Github/Linkedin ; Github/Linkedin | www.linkedin.com/in/sankul-rahate-716046227
+Kiranmoy Das | 23156 | kiranmoy23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/kiranmoy-das-677616323/
+Meghna Yadav | 23184 | meghna23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/meghna-yadav-9447512a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Lakshay Saini | 23166 | lakshay23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | www.linkedin.com/in/lakshayxi
+Kushagra Agarwal | 23162 | kushagra23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/KushagraAgarwal525
+Ananya Preyasi | 23044 | ananya23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/ananya-preyasi-1b45ba340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Abhishek Nair | 23009 | abhisheknair23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | www.linkedin.com/in/abhishek-nair-054922308
+Palak Kumari | 23217 | palak23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/palak-kumari-239b39284/
+Rachit Bakshi | 23254 | rachit23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/rachit-bakshi-b61899287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Sarabeshwar Balaji | 23294 | sarabeshwar23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/sarabeshwar-balaji/
+Charvi Gupta | 23091 | charvi23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://www.linkedin.com/in/charvi-gupta-620521288
+Pranay Meshram | 23236 | pranay23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/praymesh/
+Mayank Srivastava | 23182 | mayanks23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://github.com/Mayank-Srivastava-21
+Pragati Nayak | 23231 | pragati23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://github.com/Pragati-Nayak23
+Chirayu Sakarkar | 23093 | chirayus23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://github.com/Prowler0204
+Mohammedkaif Mohammedrafiq Kalagond | 23190 | mohammedkaif23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/Mohammedkaif2004
+Kshetrimayum Paresh Singh | 23160 | kshetrimayum23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | http://linkedin.com/in/paresh-kshetrimayum-475a44292
+Atul Sonkar | 23073 | atulsonkar23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/atul-sonkar-19a4ab237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Harshal Digarse | 23128 | harshal23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | www.linkedin.com/in/harshaldigarse
+Sejal Dayma | 23299 | sejal23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | www.linkedin.com/in/sejaldayma
+Lokesh Pareek | 23170 | lokesh23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/lokesh2004-g
+Sayan Samanta | 23298 | sayan23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | www.linkedin.com/in/sayan-samanta-64935b2a6
+Satvik Agrawal | 23296 | satvik23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/satvik-agrawal-483a141b8
+J Paul Masillamani | 23141 | jpaul23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/paul-masillamani-5b1898284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Singamsetti Komal Sandeep | 23322 | singamsetti23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/komal-singamsetti
+Uddisa Kkaarthiek | 23355 | uddisa23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/kkaarthiek/
+Arnav Shinganjude | 23061 | arnavs23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://www.linkedin.com/in/arnav-shinganjude-5601bb354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Nipun Aditya | 23209 | nipun23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | #
+Ranjith Anand | 23266 | ranjith23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/ranjith-anand-9b5649378
+Mohammad Rishan Melethil | 23188 | rishan23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/mohammad-rishan-melethil-23038a320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Kshetrimayum Paresh Singh | 23160 | kshetrimayum23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | http://linkedin.com/in/paresh-kshetrimayum-475a44292
+Yuvraj Kumar | 23393 | yuvrajk23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/yuvraj-kumar-b3b976357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Lal Jash | 23167 | jashlal23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/jash-lal-14877b378
+Sumer Singh | 23336 | sumer23@iiserb.ac.in | NA | GitHub/LinkedIn
+Prathamesh Lokhande | 23171 | lokhande23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://www.linkedin.com/in/pralok2005
+Chirag Maheshwari | 23092 | chirag23@iiserb.ac.in | NA | Github / Linkedin ; Github / Linkedin | https://github.com/ChiragM1107
+Shiv Raj Singh | 23305 | shiv23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | #
+Poorvai Chandrasen | 23227 | poorvai23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/poorvai-chandrasen-b1b90730a/
+Aditi Mishra | 23016 | aditi23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | link
+Tanvi Vinayak | 23349 | tanvi23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/tanvi-vinayak-narisetty-11b88828a/
+Aditya Pandey | 23019 | adityapandey23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | link
+Saurabh Namdev Shinde | 22296 | shinde22@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/saurabh-shinde-b2451824a
+Vaibhav Verma | 23361 | vaibhav23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://in.linkedin.com/in/vaibhav-verma-b51826254""
+Ranjith Anand | 23266 | ranjith23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/ranjith-anand-9b5649378
+Rupali Agarwal | 23278 | rupali23@iiserb.ac.in | NA | Github/Linkedin ; Github/Linkedin | https://www.linkedin.com/in/rupali-agarwal-b563b8239/
+Pawan Kumar Rajput | 23404 | pawn23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | www.linkedin.com/in/pawan-kr-rajput
+Vanshika Gupta | 23365 | vanshikag23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/Vnshiee/
+Nikhil Rathore | 23208 | nikhi23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/nikhil-rathore-38b624351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Jay Jagannath | 23145 | jay23@iiserb.ac.in | NA | GitHub/LinkedIn ; GitHub/LinkedIn | link
+
+Search this site Embedded Files Skip to main content Skip to navigation DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni 3rd Year Students Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in Page updated Report abuse
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Search this site Embedded Files Skip to main content Skip to navigation DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni 3rd Year Students Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in Page updated Report abuse
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Search this site Embedded Files
+Search this site Embedded Files
+Search this site Embedded Files
+Search this site Embedded Files
+Search this site
+Search this site
+Search this site
+Search this site
+Search this site
+Embedded Files
+Embedded Files
+Embedded Files
+Skip to main content Skip to navigation DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni 3rd Year Students Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in Page updated Report abuse
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Skip to main content Skip to navigation
+Skip to main content Skip to navigation
+Skip to main content
+Skip to main content
+Skip to navigation
+Skip to navigation
+DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni 3rd Year Students Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in Page updated Report abuse
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni 3rd Year Students Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in Page updated Report abuse
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal
+PhD
+PhD | /phd
+PhD
+PhD | /phd
+PhD
+PhD | /phd
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni
+Alumni | /alumni
+Alumni
+Alumni | /alumni
+Alumni
+Alumni | /alumni
+DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal
+DSE Students IISER Bhopal | /phd
+DSE Students IISER Bhopal
+PhD
+PhD | /phd
+PhD
+PhD | /phd
+PhD
+PhD | /phd
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni
+Alumni | /alumni
+Alumni
+Alumni | /alumni
+Alumni
+Alumni | /alumni
+More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More
+More | 
+More
+More | 
+PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+PhD
+PhD | /phd
+PhD
+PhD | /phd
+PhD
+PhD | /phd
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni
+Alumni | /alumni
+Alumni
+Alumni | /alumni
+Alumni
+Alumni | /alumni
+3rd Year Students
+3rd Year Students
+
+3rd Year Students
+3rd Year Students
+3rd Year Students
+3rd Year Students
+3rd Year Students
+3rd Year Students
+3rd Year Students
+3rd Year Students
+3rd Year Students
+3rd Year Students
+3rd
+Year Students
+
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566
+Office: +91 755 269 566
+office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+office_dse@iiserb.ac.in
+Department Homepage
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact:
+Dr. Tanmay Basu
+Head, Dept. of Data Science and Engineering
+Phone: +91 755 269 2566
+hod_dse@iiserb.ac.in
+Page updated Report abuse
+Page updated Report abuse
+Page updated Report abuse
+Page updated
+Page updated
+Page updated
+Report abuse
+Report abuse

@@ -1,0 +1,403 @@
+Name | Roll No. | Email | Supervisor | Github / Linkedin
+Aryan Mishra | 21056 | aryan21@iiserb.ac.in | Dr. Akash Anil | Github / Linkedin
+Prasanna D Kharode | 21144 | kharode21@iiserb.ac.in | Dr. Akash Anil | Github / Linkedin
+Debasmita Panda | 21326 | debasmitap21@iiserb.ac.in | Dr. Akash Anil | Github / Linkedin ; Github / Linkedin | https://github.com/debby123p
+Sharayu Borade | 21080 | borade21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin ; Github / Linkedin | https://github.com/Sharayuborade5
+Gurleen Kaur | 21120 | gurleen21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin
+Khushi Chaudhari | 21084 | khushi21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin ; Github / Linkedin | http://www.linkedin.com/in/khushi-chaudhari-925483238
+Gargi Surendra Yeole | 21110 | surendra21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin ; Github / Linkedin | https://github.com/GargiYeole
+Ashish Kumar | 21058 | ashish21@iiserb.ac.in | Dr. Akshay Agarwal | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/ashish-kumar-592420238
+Ritika Jain | 21223 | ritika21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin
+Aditya Kishore | 21011 | adityak21@iiserb.ac.in | Dr. Jasabanta Patro | Github / Linkedin
+Babu kumar | 21068 | babu21@iiserb.ac.in | Dr. Jasabanta Patro | Github / Linkedin
+Manish Gayen | 21161 | manishg21@iiserb.ac.in | Dr. Samiran Das | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/GayenManish07
+Aravind Babu M | 21323 | aravind21@iiserb.ac.in | Dr. Samiran Das | Github / Linkedin
+Avinash Kumar Kashyap | 21064 | avinash21@iiserb.ac.in | Dr. Samiran Das | Github / Linkedin
+Ganesh Birua | 21108 | ganeshb21@iiserb.ac.in | Dr. Samiran Das | Github / Linkedin
+Ashim Dhor | 21057 | ashim21@iiserb.ac.in | Dr. Tanmay Basu | Github / Linkedin ; Github / Linkedin | https://github.com/AshimDhor
+Srutanik Bhaduri | 21275 | srutanik21@iiserb.ac.in | Dr. Tanmay Basu | Github / Linkedin
+Saisab Sadhu | 21234 | saisab21@iiserb.ac.in | Dr. Tanmay Basu | Github / Linkedin ; Github / Linkedin | http://linkedin.com/in/saisab-sadhu
+Shivasish Singh | 21252 | shivasish21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin
+Shivam Chopra | 21338 | shivamc21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin
+Suchetan G U | 21342 | suchetan21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin ; Github / Linkedin | http://www.linkedin.com/in/suchetan-g-u-6703b9229
+Porus Vaid | 21208 | porus21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin
+Aditya Kumar Singh | 21012 | adityas21@iiserb.ac.in | Dr. Vinod K Kurmi | Github / Linkedin
+Aditya Manoj | 21347 | adityam21@iiserb.ac.in | Dr. Sundaram Muthu | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/Equin0x909
+Name | Roll No. | Email | Supervisor | Github / Linkedin
+Aryan Mishra | 21056 | aryan21@iiserb.ac.in | Dr. Akash Anil | Github / Linkedin
+Prasanna D Kharode | 21144 | kharode21@iiserb.ac.in | Dr. Akash Anil | Github / Linkedin
+Debasmita Panda | 21326 | debasmitap21@iiserb.ac.in | Dr. Akash Anil | Github / Linkedin ; Github / Linkedin | https://github.com/debby123p
+Sharayu Borade | 21080 | borade21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin ; Github / Linkedin | https://github.com/Sharayuborade5
+Gurleen Kaur | 21120 | gurleen21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin
+Khushi Chaudhari | 21084 | khushi21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin ; Github / Linkedin | http://www.linkedin.com/in/khushi-chaudhari-925483238
+Gargi Surendra Yeole | 21110 | surendra21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin ; Github / Linkedin | https://github.com/GargiYeole
+Ashish Kumar | 21058 | ashish21@iiserb.ac.in | Dr. Akshay Agarwal | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/ashish-kumar-592420238
+Ritika Jain | 21223 | ritika21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin
+Aditya Kishore | 21011 | adityak21@iiserb.ac.in | Dr. Jasabanta Patro | Github / Linkedin
+Babu kumar | 21068 | babu21@iiserb.ac.in | Dr. Jasabanta Patro | Github / Linkedin
+Manish Gayen | 21161 | manishg21@iiserb.ac.in | Dr. Samiran Das | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/GayenManish07
+Aravind Babu M | 21323 | aravind21@iiserb.ac.in | Dr. Samiran Das | Github / Linkedin
+Avinash Kumar Kashyap | 21064 | avinash21@iiserb.ac.in | Dr. Samiran Das | Github / Linkedin
+Ganesh Birua | 21108 | ganeshb21@iiserb.ac.in | Dr. Samiran Das | Github / Linkedin
+Ashim Dhor | 21057 | ashim21@iiserb.ac.in | Dr. Tanmay Basu | Github / Linkedin ; Github / Linkedin | https://github.com/AshimDhor
+Srutanik Bhaduri | 21275 | srutanik21@iiserb.ac.in | Dr. Tanmay Basu | Github / Linkedin
+Saisab Sadhu | 21234 | saisab21@iiserb.ac.in | Dr. Tanmay Basu | Github / Linkedin ; Github / Linkedin | http://linkedin.com/in/saisab-sadhu
+Shivasish Singh | 21252 | shivasish21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin
+Shivam Chopra | 21338 | shivamc21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin
+Suchetan G U | 21342 | suchetan21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin ; Github / Linkedin | http://www.linkedin.com/in/suchetan-g-u-6703b9229
+Porus Vaid | 21208 | porus21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin
+Aditya Kumar Singh | 21012 | adityas21@iiserb.ac.in | Dr. Vinod K Kurmi | Github / Linkedin
+Aditya Manoj | 21347 | adityam21@iiserb.ac.in | Dr. Sundaram Muthu | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/Equin0x909
+
+Search this site Embedded Files Skip to main content Skip to navigation DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni MS Students Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in Page updated Report abuse
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Search this site Embedded Files Skip to main content Skip to navigation DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni MS Students Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in Page updated Report abuse
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Search this site Embedded Files
+Search this site Embedded Files
+Search this site Embedded Files
+Search this site Embedded Files
+Search this site
+Search this site
+Search this site
+Search this site
+Search this site
+Embedded Files
+Embedded Files
+Embedded Files
+Skip to main content Skip to navigation DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni MS Students Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in Page updated Report abuse
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Skip to main content Skip to navigation
+Skip to main content Skip to navigation
+Skip to main content
+Skip to main content
+Skip to navigation
+Skip to navigation
+DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni MS Students Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in Page updated Report abuse
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni MS Students Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in Page updated Report abuse
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal
+PhD
+PhD | /phd
+PhD
+PhD | /phd
+PhD
+PhD | /phd
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni
+Alumni | /alumni
+Alumni
+Alumni | /alumni
+Alumni
+Alumni | /alumni
+DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni
+DSE Students IISER Bhopal | /phd
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+DSE Students IISER Bhopal
+DSE Students IISER Bhopal | /phd
+DSE Students IISER Bhopal
+PhD
+PhD | /phd
+PhD
+PhD | /phd
+PhD
+PhD | /phd
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni
+Alumni | /alumni
+Alumni
+Alumni | /alumni
+Alumni
+Alumni | /alumni
+More PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni
+More | 
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+More
+More | 
+More
+More | 
+PhD BS-MS 5th Year BS-MS Majors (3rd Year) BS-MS Majors (4th Year) Alumni
+PhD | /phd
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni | /alumni
+PhD
+PhD | /phd
+PhD
+PhD | /phd
+PhD
+PhD | /phd
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS 5th Year
+BS-MS 5th Year | /bs-ms-5th-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (3rd Year)
+BS-MS Majors (3rd Year) | /bs-ms-majors-3rd-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+BS-MS Majors (4th Year)
+BS-MS Majors (4th Year) | /bs-ms-majors-4th-year
+Alumni
+Alumni | /alumni
+Alumni
+Alumni | /alumni
+Alumni
+Alumni | /alumni
+MS Students
+MS Students
+
+MS Students
+MS Students
+MS Students
+MS Students
+MS Students
+MS Students
+MS Students
+MS Students
+MS Students
+MS Students
+MS Students
+
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566 office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+Office: +91 755 269 566
+Office: +91 755 269 566
+office_dse@iiserb.ac.in Department Homepage
+office_dse@iiserb.ac.in | mailto:office_dse@iiserb.ac.in
+Department Homepage | https://dse.iiserb.ac.in
+office_dse@iiserb.ac.in
+Department Homepage
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact: Dr. Tanmay Basu Head, Dept. of Data Science and Engineering Phone: +91 755 269 2566 hod_dse@iiserb.ac.in
+For speaking requests and inquiries, please contact:
+Dr. Tanmay Basu
+Head, Dept. of Data Science and Engineering
+Phone: +91 755 269 2566
+hod_dse@iiserb.ac.in
+Page updated Report abuse
+Page updated Report abuse
+Page updated Report abuse
+Page updated
+Page updated
+Page updated
+Report abuse
+Report abuse
