@@ -1,0 +1,100 @@
+{
+  "schema": {
+    "Student": {
+      "id": "unique student identifier",
+      "name": "full name",
+      "type": "BS | MS | PhD | PostDoc",
+      "roll_no": "official roll number",
+      "email": "email ID",
+      "department": "department ID",
+      "linkedin": "LinkedIn profile URL",
+      "github": "GitHub profile URL",
+      "research_group": "research group ID (if any)",
+      "guide": "faculty ID (if any)"
+    },
+
+    "Faculty": {
+      "id": "unique faculty identifier",
+      "name": "full name",
+      "email": "email ID",
+      "department": "department ID",
+      "position": "Professor | Associate Professor | Assistant Professor | PostDoc Mentor | etc.",
+      "joined_year": "year of joining"
+    },
+
+    "ResearchGroup": {
+      "id": "unique group identifier",
+      "name": "research group name",
+      "department": "department ID",
+      "head": "faculty ID",
+      "website": "homepage URL"
+    },
+
+    "Department": {
+      "id": "unique department identifier",
+      "name": "department name",
+      "institute": "institute ID",
+      "hod": "faculty ID"
+    },
+
+    "Institute": {
+      "id": "unique institute identifier",
+      "name": "institute name",
+      "director": "director name",
+      "location": "city, state",
+      "established": "year of establishment"
+    }
+  },
+
+  "examples": [
+    {
+      "type": "Institute",
+      "id": "inst_001",
+      "name": "Indian Institute of Science Education and Research Bhopal",
+      "director": "Prof. XYZ Sen",
+      "location": "Bhopal, Madhya Pradesh",
+      "established": "2008"
+    },
+
+    {
+      "type": "Department",
+      "id": "dept_math",
+      "name": "Department of Mathematics",
+      "institute": "inst_001",
+      "hod": "fac_014"
+    },
+
+    {
+      "type": "Faculty",
+      "id": "fac_014",
+      "name": "Dr. Rakesh Sharma",
+      "email": "rsharma@iiserb.ac.in",
+      "department": "dept_math",
+      "position": "Professor",
+      "joined_year": "2015"
+    },
+
+    {
+      "type": "ResearchGroup",
+      "id": "rg_ml_01",
+      "name": "Machine Learning Group",
+      "department": "dept_math",
+      "head": "fac_014",
+      "website": "https://iiserb.ac.in/ml-group"
+    },
+
+    {
+      "type": "Student",
+      "id": "stu_22349",
+      "name": "Tanishq Sharma",
+      "type": "BS",
+      "roll_no": "22349",
+      "email": "tanishq22@iiserb.ac.in",
+      "department": "dept_math",
+      "linkedin": "",
+      "github": "",
+      "research_group": "rg_ml_01",
+      "guide": "fac_014"
+    }
+  ]
+}

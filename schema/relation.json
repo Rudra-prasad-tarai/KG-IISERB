@@ -1,0 +1,58 @@
+{
+  "schema": {
+    "belongsTo": {
+      "subject": ["Student", "Faculty", "ResearchGroup"],
+      "object": ["Department"]
+    },
+    "partOf": {
+      "subject": ["Department"],
+      "object": ["Institute"]
+    },
+    "heads": {
+      "subject": ["Faculty"],
+      "object": ["Department", "ResearchGroup"]
+    },
+    "guidedBy": {
+      "subject": ["Student"],
+      "object": ["Faculty"]
+    },
+    "memberOf": {
+      "subject": ["Student"],
+      "object": ["ResearchGroup"]
+    }
+  },
+
+  "examples": [
+
+    {
+      "relation": "partOf",
+      "from": "dept_math",
+      "to": "inst_001"
+    },
+
+    {
+      "relation": "belongsTo",
+      "from": "fac_014",
+      "to": "dept_math"
+    },
+
+    {
+      "relation": "heads",
+      "from": "fac_014",
+      "to": "rg_ml_01"
+    },
+
+    {
+      "relation": "memberOf",
+      "from": "stu_22349",
+      "to": "rg_ml_01"
+    },
+
+    {
+      "relation": "guidedBy",
+      "from": "stu_22349",
+      "to": "fac_014"
+    }
+
+  ]
+}
