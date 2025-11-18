@@ -1,0 +1,2 @@
+python3 /home/DSE425/Desktop/Rudra/mlg/KG-IISERB/quickscript.py
+python3 /home/DSE425/Desktop/Rudra/mlg/KG-IISERB/retreiver/build_index_gpu.py --input_dir /home/DSE425/Desktop/Rudra/mlg/KG-IISERB/cleaned_html --output /home/DSE425/Desktop/Rudra/mlg/KG-IISERB/faiss
